@@ -12,21 +12,21 @@ Siga o passo a passo abaixo para enviar suas atividades de forma organizada:
 
 1. **Clone o repositório**  
    ```bash
-   git clone https://github.com/[NOME_DO_REPOSITORIO].git
+   git clone [https://github.com/ProfCercal/DS24M6.git]
    ```
 
 2. **Crie sua pasta pessoal**  
-   Dentro da pasta `alunos/`, crie uma subpasta com seu **nome completo** (ex: `alunos/Joao_Silva`).  
+   Crie uma subpasta com seu **nome completo** (ex: `Joao_Silva`).  
    👉 Use underscores (`_`) no lugar de espaços.
 
 3. **Adicione seus arquivos**  
    Salve suas atividades dentro da sua pasta.  
-   Exemplo: `alunos/Joao_Silva/atividade1-matematica.pdf`
+   Exemplo: `Joao_Silva/brecho_online.html`
 
 4. **Envie suas alterações (commit)**  
    ```bash
    git add .
-   git commit -m "feat: Adiciona atividade1 de matemática por João Silva"
+   git commit -m "feat: Adiciona brecho_online de PRAP por João Silva"
    git push origin main
    ```
 
