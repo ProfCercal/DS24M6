@@ -8,7 +8,7 @@ Olá, estudantes! 👋 Este é o espaço oficial para compartilhamento de ativid
 ---
 
 ## 📂 Como Contribuir com Suas Atividades  
-Cda estudante deverá enviar suas atividades dentro da pasta que contém seu nome. Dentro de sua própria pasta pessoal, vocês devem **criar subpastas para cada atividade**.
+Cda estudante deverá enviar suas atividades dentro da pasta que contém seu nome. Em sua pasta pessoal, vocês devem **criar subpastas para cada atividade**.
 
 ⚠️ **Atenção:** Sempre verifique se está trabalhando dentro da **sua própria pasta** para evitar conflitos!
 
