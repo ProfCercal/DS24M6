@@ -8,27 +8,7 @@ Olá, estudantes! 👋 Este é o espaço oficial para compartilhamento de ativid
 ---
 
 ## 📂 Como Contribuir com Suas Atividades  
-Siga o passo a passo abaixo para enviar suas atividades de forma organizada:
-
-1. **Clone o repositório**  
-   ```bash
-   git clone [https://github.com/ProfCercal/DS24M6.git]
-   ```
-
-2. **Crie sua pasta pessoal**  
-   Crie uma subpasta com seu **nome completo** (ex: `Joao_Silva`).  
-   👉 Use underscores (`_`) no lugar de espaços.
-
-3. **Adicione seus arquivos**  
-   Salve suas atividades dentro da sua pasta.  
-   Exemplo: `Joao_Silva/brecho_online.html`
-
-4. **Envie suas alterações (commit)**  
-   ```bash
-   git add .
-   git commit -m "feat: Adiciona brecho_online de PRAP por João Silva"
-   git push origin main
-   ```
+Cda estudante deverá enviar suas atividades dentro da pasta que contém seu nome. Dentro de sua própria pasta pessoal, vocês devem **criar subpastas para cada atividade**.
 
 ⚠️ **Atenção:** Sempre verifique se está trabalhando dentro da **sua própria pasta** para evitar conflitos!
 
@@ -50,5 +30,4 @@ Entre em contato com o professor **Éwerton Cercal**!
 
 ---
 
-**Divirtam-se codando!** 💻✨  
-*"A educação é a arma mais poderosa que você pode usar para mudar o mundo." – Nelson Mandela*
+**Divirtam-se codando!** 💻✨
